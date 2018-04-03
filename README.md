@@ -5,3 +5,11 @@
 This repo is for use in my Udemy Course https://www.bretfisher.com/dockermastery
 
 Feel free to create issues or PRs if you find a problem.
+
+## Table of Contents
+
+| Section | Description |
+|---------|-------------|
+| [Build image](./dockerfile-assignment-1) | Build your own image from the Dockerfile |
+| [Named Volumes](./example-persistent-data/named-volume-sample.md) | Database Upgrades with Named Volumes |
+| [Bind mounts](./bindmount-sample1/README.md) | Edit Code Running in Containers with Bind Mounts |
