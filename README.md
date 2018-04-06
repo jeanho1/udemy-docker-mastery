@@ -15,3 +15,5 @@ Feel free to create issues or PRs if you find a problem.
 | [Bind mounts](./bindmount-sample1/README.md) | Edit Code Running in Containers with Bind Mounts |
 | [Docker compose sample 1](./compose-sample-1)|[Docker compose sample 2](./compose-sample-2) | Docker Compose YAML template |
 | [Build a Compose File](./compose-assignment-1) | Build a Compose File for a Multi-Container Service |
+| [Add image to Compose File](./compose-sample-3) | Adding Image Buiding to Compose Files |
+| [Compose For On-The-Fly Image Building](./compose-assignment-2) | Compose for Run-Time Image Building and Multi-Container Dev |
