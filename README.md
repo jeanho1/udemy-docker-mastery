@@ -17,3 +17,4 @@ Feel free to create issues or PRs if you find a problem.
 | [Build a Compose File](./compose-assignment-1) | Build a Compose File for a Multi-Container Service |
 | [Add image to Compose File](./compose-sample-3) | Adding Image Buiding to Compose Files |
 | [Compose For On-The-Fly Image Building](./compose-assignment-2) | Compose for Run-Time Image Building and Multi-Container Dev |
+| [Create A Multi-Service Multi-Node Web App](./swarm-app-1) | Create A Multi-Service Multi-Node Web App |
